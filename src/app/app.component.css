@@ -1,4 +1,18 @@
+* {
+    color: red;
+    background-color: black;
+ }
+
+ header{
+    background-color: black;
+ }
+
+ body{
+    background-color: black;
+ }
+
 .box {
     display: flex;
     padding: 10px;
  }
+
